@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utility.Toolkit;
+namespace OliveStudio.Toolkit;
 
 /// <summary>
 /// Defines a command with a single generic parameter.

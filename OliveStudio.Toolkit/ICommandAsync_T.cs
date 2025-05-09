@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utility.Toolkit;
+namespace OliveStudio.Toolkit;
 
 /// <summary>
 /// Defines an asynchronous command with a parameter of type <typeparamref name="T"/>.
